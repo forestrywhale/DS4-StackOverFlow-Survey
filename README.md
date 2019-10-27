@@ -9,6 +9,6 @@ https://medium.com/@kikyo91/insights-into-2019-stack-overflows-annual-developer-
 - *.png*: Figure files generated facilitating blog analysis.
 - *developer_survey_2019.zip*: data downloaded from StackOverflow website: https://insights.stackoverflow.com/survey
 
-# To excute the notebook
+# To Excute The Notebook
 - Extract the *developer_survey_2019.zip* into *./* folder.
 - Excute.
